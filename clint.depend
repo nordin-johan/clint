@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1575639016 source:/var/www/pow/clint/clint/main.cpp
+1575639564 source:/var/www/pow/clint/main.cpp
 	<iostream>
 	<sys/types.h>
 	<unistd.h>
